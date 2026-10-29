@@ -1,6 +1,6 @@
 # HH Goa 2026 — Builder Frame Generator
 
-A small web app for Hacker House Goa 2026 that generates a personalised "builder" ID frame you can download and share.
+A small web app for Hacker House Goa 2026 that turns your photo (upload or webcam) into a personalised "builder" ID frame you can download as a PNG and share.
 
 **Live:** https://udayraj1238.github.io/hh-goa-id/
 
